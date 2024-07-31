@@ -25,3 +25,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
    ```bash
    pip install -r requirements.txt
    ```
+4. To run the model
+   ```bash
+   python scripts/model_training.py
+   ```
